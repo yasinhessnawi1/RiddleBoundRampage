@@ -1,0 +1,30 @@
+/* Styles the passage box */
+
+/* Styles for outer box (Rectangle)*/
+.outer-box {
+    -fx-stroke: linear-gradient(from 0% 0% to 100% 200%, repeat, gold 0%, darkgoldenrod 50%, gold 100%);
+    -fx-stroke-width: 2;
+    -fx-fill: linear-gradient(from 0% 0% to 100% 200%, repeat, gold 0%, darkgoldenrod 50%, gold 100%);
+}
+
+/* Styles for passage text (Text) */
+.passage-text {
+    -fx-fill: linear-gradient(from 0% 0% to 100% 200%, repeat, gold 0%, darkgoldenrod 50%, gold 100%);
+}
+
+/* Styles for text container (ScrollPane) */
+.text-container {
+    -fx-background: linear-gradient(to bottom, #3e3e3e 0%, #191919 50%, #3e3e3e 100%);
+    -fx-padding: 10;
+    -fx-viewport-border-color: gold;
+}
+
+/* Styles for passage region (StackPane) */
+.passage-region {
+    -fx-effect: dropshadow(three-pass-box, goldenrod, 10, 0, 0, 0);
+}
+
+/* Styles for ScrollPane ScrollBar */
+.text-container .scroll-bar:vertical .thumb {
+    -fx-background-color: linear-gradient(from 0% 0% to 100% 200%, repeat, gold 0%, darkgoldenrod 50%, gold 100%);
+}

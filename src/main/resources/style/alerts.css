@@ -1,0 +1,62 @@
+/* Confirmation Alert - Minimalist Style */
+.information-alert {
+    -fx-border-color: linear-gradient(from 0% 0% to 100% 200%, repeat, gold 0%, darkgoldenrod 50%, gold 100%);
+    -fx-border-width: 2px;
+    -fx-border-radius: 5px;
+    -fx-background-color: linear-gradient(to bottom, #3e3e3e 0%, #191919 50%, #3e3e3e 100%);
+    -fx-text-fill: linear-gradient(from 0% 0% to 100% 200%, repeat, gold 0%, darkgoldenrod 50%, gold 100%);
+}
+
+.information-alert:hover {
+    -fx-border-color: #81C784;
+    -fx-effect: dropshadow(three-pass-box, goldenrod, 10, 0, 0, 0);
+    -fx-cursor: hand;
+}
+
+/* Error Alert - Bold and Vibrant Style */
+.error-alert {
+    -fx-background-color: linear-gradient(to bottom, #3e3e3e 0%, #191919 50%, #3e3e3e 100%);
+    -fx-border-radius: 5px;
+    -fx-border-color: linear-gradient(from 0% 0% to 100% 200%, repeat, gold 0%, darkgoldenrod 50%, gold 100%);
+    -fx-text-fill: linear-gradient(from 0% 0% to 100% 200%, repeat, gold 0%, darkgoldenrod 50%, gold 100%);
+
+}
+
+.error-alert:hover {
+    -fx-border-color: #E57373;
+    -fx-effect: dropshadow(three-pass-box, goldenrod, 10, 0, 0, 0);
+    -fx-cursor: hand;
+}
+
+/* Information Alert - Classic Style */
+.confirmation-alert {
+    -fx-border-color: linear-gradient(from 0% 0% to 100% 200%, repeat, gold 0%, darkgoldenrod 50%, gold 100%);
+    -fx-border-width: 2px;
+    -fx-border-radius: 5px;
+    -fx-background-color: linear-gradient(to bottom, #3e3e3e 0%, #191919 50%, #3e3e3e 100%);
+    -fx-effect: dropshadow(three-pass-box, goldenrod, 10, 0, 0, 0);
+
+}
+
+.confirmation-alert:hover {
+    -fx-border-color: #64B5F6;
+    -fx-effect: dropshadow(three-pass-box, goldenrod, 10, 0, 0, 0);
+    -fx-cursor: hand;
+}
+
+.confirmation-alert .label {
+    -fx-text-fill: linear-gradient(from 0% 0% to 100% 200%, repeat, gold 0%, darkgoldenrod 50%, gold 100%);
+}
+
+.information-alert .label {
+    -fx-text-fill: linear-gradient(from 0% 0% to 100% 200%, repeat, gold 0%, darkgoldenrod 50%, gold 100%);
+}
+
+.error-alert .label {
+    -fx-text-fill: linear-gradient(from 0% 0% to 100% 200%, repeat, gold 0%, darkgoldenrod 50%, gold 100%);
+}
+
+.myDialog .header-panel {
+    -fx-background-color: linear-gradient(to bottom, #3e3e3e 0%, #191919 50%, #3e3e3e 100%);
+    -fx-text-fill: linear-gradient(from 0% 0% to 100% 200%, repeat, gold 0%, darkgoldenrod 50%, gold 100%);
+}

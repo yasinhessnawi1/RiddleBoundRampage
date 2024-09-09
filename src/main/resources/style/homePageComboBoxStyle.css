@@ -1,0 +1,28 @@
+.combo-box {
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #FFD700; /* Gold text color */
+    -fx-background-color: #000000; /* Black background color */
+    -fx-effect: dropshadow(three-pass-box, rgba(218, 165, 32, 0.8), 40, 0, 0, 0); /* Gold drop shadow */
+    -fx-border-color: #B8860B;
+    -fx-border-width: 3px;
+    -fx-border-radius: 5px;
+    -fx-padding: 10px;
+}
+
+.combo-box .list-cell {
+    -fx-padding: 5px;
+    -fx-background-color: #000000; /* Black background color for the list cell */
+    -fx-text-fill: #FFD700; /* Gold text color for the list cell */
+}
+
+.combo-box:hover {
+    -fx-scale-x: 1.05;
+    -fx-scale-y: 1.05;
+    -fx-background-color: linear-gradient(to bottom, #000000 0%, #696969 100%); /* Gradient from black to gray when hovered */
+}
+
+.combo-box .cell:hover {
+    -fx-background-color: #696969; /* Gray background color when a cell is hovered */
+    -fx-text-fill: #FFD700; /* Gold text color when a cell is hovered */
+}

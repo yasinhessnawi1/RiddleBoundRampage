@@ -1,0 +1,343 @@
+The Legend of the Heartstone
+
+::Staremore docks
+You are an adventurer, that just arrived in the town of Staremore looking for new adventures and treasures.
+You are standing on the docks, ahead you can see the busy town square with merchants, stores and eating establishments
+wondering where you'll find your next adventure as you start walking towards the square.
+[Start walking towards the town](Walking to town)(health = 5)(Gold = 10)(health = 5)
+
+::Walking to town
+As you walk through the weathered gates and into the town a melancholic aura envelops the surroundings, casting a
+tangible weight upon the air. The streets, once vibrant and bustling, now bear the weight of lost hopes.
+Buildings with faded facades stand as silent witnesses to the town's gradual decline. The town is full of people
+walking around butt no one is talking or smiling to each-other its like all happiness and hope has left their lives
+[Go to town square](Staremore town square)(health = 5)(Gold = 10)(health = 5)
+
+::Staremore town square
+As you walk to the square you can see wanted-posters all around, when you are about to walk towards one of the posters
+to get a closer look someone behind you jells to get your attention. You turn around and se a small older mann with
+a long grey beard. The old man "Ho there, brave soul! A moment of your time, if you would be so kind."
+[Talk to the old man](Old man)(health = 5)(Gold = 10)(health = 5)
+[Look at the wanted-poster](Wanted poster)(health = 5)(Gold = 10)(health = 5)
+
+::Old man
+You approach the old man. You "hello there sir. What may i help you with?" Old man " Ah, I see the fire in your eyes,
+the unmistakable mark of an adventurer yearning for a new adventure to happen." You "wheel yes do you perhaps have a
+quest for me sir?" old man "Ah, my eager adventurer, fear not, for I have just the quest that may pique your interest.
+[Continue listening to the old man](The story of Staremore)(health = 5)(Gold = 10)(health = 5)
+[Go to the inn](The Weary Willow Inn)(health = 5)(Gold = 10)(health = 5)
+
+::The story of Staremore
+Deep within the enchanted forest of Staremore, there lies a sacred relic known as the Heartstone. Legend has it that
+this gem possesses the power to restore balance and harmony to both the natural and mystical realms. It is said that the
+Heartstone located in Misthaven, the once thriving village of fairies that now lies in ruins. However, the forest has
+fallen into disarray, consumed by an encroaching darkness that threatens to extinguish its once vibrant life.
+While listening to the old mann you see a cat walking by brushing against your leg.
+[Continue listening](Continue listening)(health = 5)(Gold = 10)(health = 5)
+
+
+::Continue listening
+The creatures of Staremore suffer, and the very essence of magic wanes with each passing day. It is up to
+you, young adventurer, to embark on a perilous journey to retrieve the Heartstone and restore light to this
+once-thriving realm. But be warned, the path will not be easy. The forest is teeming with treacherous creatures,
+enchanted traps, and an ancient evil sorcerer. As the old mann is talking you start hearing some strange headbanging sounds.
+[Continue listening to the old bearded man](The old man with the beard)(health = 5)(Gold = 10)(health = 5)
+
+::The old man with the beard
+Along your way, you will encounter riddles to test your wit, puzzles to
+challenge your mind, and trials to prove your courage. Gather your gear, arm yourself with knowledge and a stout heart,
+and venture forth into the depths of Staremoreforest. Seek out the wise sages who dwell within the forest, for they hold
+the key to unlocking the path to the Heartstone's sanctuary. As you navigate the trials of Staremore, remember that the
+fate of an entire realm rests upon your shoulders. Your actions will determine whether harmony shall be restored or
+darkness shall prevail. The journey may be daunting, but within you lies the strength to triumph over adversity
+and bring about the renewal Staremore so desperately craves.
+[Start your adventure](Start your adventure)(health = 5)(Gold = 10)(health = 5)
+
+::Start your adventure
+Go now, brave adventurer, and may the forest guide your steps, the ancient spirits protect you, and the Heartstone's
+light illuminate your way. Embrace this quest, and let your name be forever etched in the annals of Staremore's history
+as the hero who saved its very soul."
+[go to Staremoreforest](Staremoreforest)(health = 5)(Gold = 10)(health = 5)
+
+::Wanted poster
+WANTED
+Name: Malachai
+Description:
+Age: Unknown
+Height: Approximately 6'2" , 188 cm
+Build: Thin, sinister
+Hair: Long, dark
+Eyes: Glowing, malevolent red
+Distinguishing Features: Wears black robes, carries a staff adorned with dark crystals
+[Look at his crimes](Crimes)(health = 5)(Gold = 10)(health = 5)
+
+::Crimes
+crimes committed
+Practitioner of forbidden and dark magic
+Spreading chaos and despair across the realm
+Engaging in acts of cruelty and malevolence
+Wanted for numerous assaults on innocent beings
+Suspected involvement in the disappearance of villages and towns
+[Continue reading](Continue reading)(health = 5)(Gold = 10)(health = 5)
+
+::Continue reading
+Reward:
+A substantial reward of 100,000 gold coins is offered for information leading to the capture and defeat of Malachai
+Last Seen:
+Malachai was last sighted in the vicinity of the Forbidden Tower, a dark and foreboding fortress hidden at the top of the dark mountain.
+Caution:
+Malachai is an extremely dangerous wizard proficient in dark sorcery. Approach with extreme caution.
+Additional Information:
+By aiding in the capture and defeat of Malachai, you will not only bring justice to the realm but also protect
+innocent lives from his malevolent influence.
+[Start your adventure](Start your adventure)(health = 5)(Gold = 10)(health = 5)
+
+::The Weary Willow Inn
+Nestled in a forgotten corner of the town, the Weary Willow Inn stands as a testament to faded dreams.
+Its once vibrant facade now bears the scars of neglect, its peeling paint revealing the passage of time.
+[Enter the inn](In The Weary Willow Inn)(health = 5)(Gold = 10)(health = 5)
+
+::In The Weary Willow Inn
+Within, a somber silence hangs heavy, as if the very walls mourn the joys they have witnessed.
+The interior is filled with old furnishings, worn out by the weight of countless weary souls seeking solace.
+The air carries a sense of longing, mingled with the faint scent of nostalgia and lost hopes.
+Soft candlelight flickers in a feeble attempt to dispel the pervasive gloom.
+Guests shuffle through dimly lit corridors, their footsteps echoing the echoes of bygone laughter.
+[Talk to the innkeeper](The innkeeper)(health = 5)(Gold = 10)(health = 5)(Gold = -5)(health = 5)(Gold = 10)(health = 5)
+
+::The innkeeper
+The innkeeper, with eyes weary from countless tales of woe, offers a weary smile.
+They understand the weight carried by each guest, silently acknowledging the shared burden of sorrow.
+The innkeeper "hello there stranger what may i help you with today?" she says with a forced smile
+you "i am new in town and looking for a place to stay." the innkeeper responds "then you are at the right place"
+she says as she turns to get a key from the wall behind her. She places the key on the counter as she says
+"For a simple and cozy chamber, perfect for a weary wanderer, the rate is five gold coins per night."
+[Go to your room](Bedroom)(health = 5)(Gold = 10)(health = 5)
+[Talk to the innkeeper again](Talk to the innkeeper again)(health = 5)(Gold = 10)(health = 5)
+
+::Talk to the innkeeper again
+you ask the innkeeper why everyone inn town seems so sad. she answers with a weary lock "it because of the evil wizard Malachai.
+Malachai was not always consumed by darkness. In his earlier years, he had known love.
+Malachai and Aurelia love story seemed like a tale woven by the gods themselves.
+Their bond was a beacon of light for everyone in this kingdom. But fate had other plans in store.
+A devastating event unfolded, shattering their love and casting Malachai into a chasm of grief and despair.
+It was said that a tragic accident, caused by a surge of uncontrollable magic, claimed Aurelia's life.
+As grief twisted his heart and extinguished the flame of his once-bright soul.
+Haunted by guilt and consumed by an insatiable thirst for power, Malachai turned to dark arts, seeking to regain what he had lost.
+He is willing to sacrifice anything to bring Aurelia back from the realm of the dead. they say there is only one way to stop him.
+[Continue listening](Listen to the innkeeper)(health = 5)(Gold = 10)(health = 5)
+
+::Listen to the innkeeper
+They say the only way to stop Malachai is to find the Heart stone the true heart of Staremore.
+The Heart stone was once the property of the fairy queen, but after the loos og Aurelia Malachai shased the fairies
+from their home in Staremore forest. The legend has it that the Heart stone still remains in the fairies old town Misthaven
+and only a true hero can find it, and save us all from Malachai's evil hands. But be carefull the forest is dangerous
+and any attempt to stop Malachai without the Heart stone vil prove to be fatal.
+[Start your adventure](Start your adventure)(health = 5)(Gold = 10)(health = 5)
+
+
+::Bedroom
+you enter a small dimly lit room, its small dusty but still inviting with the warmth of a small fire burning in the
+fireplace across from you. the room is sparsely furnished with a single bed and a nightstand on one wall,a small desk and
+stool on the other wall and an old leather chair in front of the fireplace. you put town your luggage on the bed and
+decides to go back to talk to the innkeeper.
+[talk to the inn keeper](Talk to the innkeeper again)(health = 5)(Gold = 10)(health = 5)
+
+::Staremoreforest
+you walk towards the south side of town where the forest begins.
+As you step into the forest, a sense of coziness embraces you like a warm blanket on a chilly evening. Sunlight filters
+through the leafy canopy, casting playful patterns on the forest floor. Soft moss blankets the forest floor, providing
+a cushion underfoot as you traverse the winding path. Birds sing their melodic songs, creating a symphony that fills
+the air with playful song. Squirrels scamper among the trees, their playful antics bringing a smile to your face.
+Wildflowers bloom in vibrant hues, painting the landscape with bursts of color. The forest whispers of secrets in
+a hushed tones. As a gentle breeze caresses the forest, it carries with it the mingled scents of earth and blooming blossoms.
+[Walk deeper into the forest](Deeper inn the forest)(health = 5)(Gold = 10)(health = 5)
+
+::Deeper inn the forest
+as you walk deeper into the forest you can feel the ambiance changing,  The once vibrant sunlight grows dimmer, obscured
+by the thickening canopy. Shadows deepen, casting an eerie gloom over the path ahead.
+The air becomes cooler, carrying a faint whisper that sends a shiver down your spine. The song of the birds gradually
+fade away, leaving an unsettling silence. The path once vibrant with flowers and moss slowly turns to a labyrinth of
+twisted roots and rocks makes it harder to distinguish which direction the path is going. as you keep walking you feel
+more ery as you hear rustling in the busses ahead.
+[Go investigate the busses](In the busses)(health = 5)(Gold = 10)(health = 5)(Gold = 5)(health = 5)(Gold = 10)(health = 5)
+
+::In the busses
+you slowly approaches the busses with your sword at the ready and you senses heightened, you can feel an uneasiness
+flush owner you. The forest seems to hold its breath. With each step forward, the uneasiness intensifies, amplifying
+the pounding of your heart in your chest as you part the dense foliage, ready to confront whatever may lie in wait.
+Yet, to your surprise and slight disappointment, the source of the commotion reveals itself,
+a graceful owl emerges from the underbrush, its wings spreading wide in a display of majestic beauty.
+For a moment, time seems to stand still as you lock eyes with the owl. In its gaze, you sense a quiet wisdom,
+as if it understands the depths of your apprehension. As you lower your sword, a newfound reverence fills your heart.
+The owl's presence becomes a symbol of guidance, a reminder to trust your instincts and tread carefully along your path.
+[Continue deeper into the forest](At a crossroad)(health = 5)(Gold = 10)(health = 5)(Inventory = sword)(health = 5)(Gold = 10)(health = 5)
+
+::At a crossroad
+As you venture deeper into the forest, the shadows grow denser, and an oppressive darkness engulfs your surroundings.
+The canopy overhead blocks out even the faintest hints of light, casting the path ahead into an abyss of uncertainty.
+Each step you take seems to be swallowed by the ominous gloom, heightening your senses.
+Navigating through this darker realm becomes a test of courage and resilience. Your senses strain to detect any signs
+of movement or danger as each shadow and each rustle makes you uneasy. the forest becomes a place where fears may
+manifest and illusions can deceive, you keep walking deeper and deeper inn as you suddenly find yourself at a
+crossroad. the roads ahead are marked by and old overgrown sign "the Forbidden Tower" to the right and "Misthaven" to the left.
+[go to the forbidden tower](Walking to the tower)(health = 5)(Gold = 10)(health = 5)(Gold = 10)(health = 5)(Gold = 10)(health = 5)
+[Walk to Misthaven](Walking to Misthaven)(health = 5)(Gold = 10)(health = 5)(Gold = 10)(health = 5)(Gold = 10)(health = 5)
+
+::Walking to the tower
+As you approach the looming dark tower, a sense of anticipation and unease fills the air. But as you draw nearer,
+the evil magician who dwells within unleashes a barrage of powerful magic spells, their malevolent intent evident in
+each crackling burst of energy. Caught off guard by the intensity of the assault, you quickly realize the danger that
+lies ahead. Wisely, you choose to retreat, moving swiftly and purposefully away from the tower's maleficent aura
+The sorcerer's dark magic follows in your wake, punctuating the air with the vibrant flashes of light.
+You are run along a path weary of what may lie ahead, the path twisting and turn, snaking its way through the
+darkening forest where ancient trees loom their twisted branches reaching out like skeletal fingers, seemingly eager to
+trap the unwary. You start to slow town tinging you must be close to town by now but stops for a second.
+Though your attempt to reach the dark tower was in vain, you can see some light ahead and you continue further in the forest.
+[Entering Misthaven](Misthaven)(health = 5)(Gold = 10)(health = 5)(Gold = 10)(health = 5)(Gold = 10)(health = 5)
+
+
+::Walking to Misthaven
+You are walking along the path weary of what may lie ahead, the path twisting and turn, snaking its way through the
+darkening forest where ancient trees loom their twisted branches reaching out like skeletal fingers, seemingly eager to
+trap the unwary.As you follow the serpentine course journeying further in, fraught with unseen perils and restless
+spirits that stir in the depths of the forest. With each bend and curve, anticipation and wariness intertwine within
+your weary soul. Every step forward feels like a gamble, the path seemingly toying with your resolve.
+as you start to ponder whether you should return to the village you can vaguely see some light ahead.
+[Entering Misthaven](Misthaven)(health = 5)(Gold = 10)(health = 5)(Gold = 10)(health = 5)(Gold = 10)(health = 5)
+
+::Misthaven
+the sight of light gives you new courage to continue your journey.  you emerge into a clearing that reveals the ruins
+of a long forgotten village, you see doors and windows in some of the bigger tree-trunks, some small cottages, houses in
+carved in stones, and som in huge mushrooms all overgrown by moss, tree-roots, and other types of foliage.
+as you start walking around town looking for where the heart stone might have been you start to imagine how the village must
+have been when the fairies still was living in this town how a magical sight that must have ben.
+you start cutting down the moos and roots covering the door of one of the tree-houses. you look trough the house you see
+treasure chest.
+[Open the treasure chest](The treasure chest)(health = 5)(Gold = 10)(health = 5)(Gold = 10)(health = 5)(Gold = 10)(health = 5)
+[Lock somewhere else](Keep locking)(health = 5)(Gold = 10)(health = 5)(Gold = 10)(health = 5)(Gold = 10)(health = 5)
+
+::The treasure chest
+you open the treasure chest but all you find two gold coins and an old picture of what looks like a castle drawn by a child.
+[keep locking for the Heartstone](Keep looking around)(health = 5)(Gold = 10)(health = 5)(Gold = 10)(health = 5)(Gold = 10)(health = 5)
+
+::Keep locking
+you leave the house still eager to find what you are looking for. you keep searching one home after another, but all
+you find is 13 gold. doubt start to creep into your mind, threatening to extinguish the flicker of hope that had guided
+you thus far. As you venture through the overgrown underbrush, your weary eyes catch sight of a cluster of ruins nestled
+among the overgrown foliage. The haunting silhouette of the ruins emerged, like a beacon of possibility in the midst of uncertainty.
+[Exsplore the ruins](The ruins)(health = 5)(Gold = 10)(health = 5)
+
+::Keep looking around
+you leave the house still eager to find what you are looking for. you keep searching one home after another, but all
+you find is 13 gold. doubt start to creep into your mind, threatening to extinguish the flicker of hope that had guided
+you thus far. As you venture through the overgrown underbrush, your weary eyes catch sight of a cluster of ruins nestled
+among the overgrown foliage. The haunting silhouette of the ruins emerged, like a beacon of possibility in the midst of uncertainty.
+[Exsplore the ruins](The ruins)(health = 5)(Gold = 10)(health = 5)
+
+::The ruins
+As you step into the crumbling ruins of the ancient fairy castle, a sense of awe washes over you. The grandeur of the
+past is still faintly there among the worn stones and faded tapestries that adorn the dilapidated walls.
+Rays of sunlight pierce through cracks in the ceiling, casting ethereal beams that dance upon the broken floor.
+The air within the castle is heavy with the weight of forgotten magic and whispered enchantments.
+Traces of fairy dust twinkle in the faint light, as if lingering remnants of the fairies' mystical presence.
+The halls, once bustling with life, now echo with emptiness, their ghostly silence a testament to the forgotten fairies
+once happily attending balls in this grand room.
+[Lock for the stone](A maze of corridors)(health = 5)(Gold = 10)(health = 5)
+
+::A maze of corridors
+you try to navigate your way trough the maze of corridors searching for the treasure room, you are certain that is where the
+Heartstone has to bee. you find a big wooden door it lock sturdier then the rest of the door you have entered trough out the castle,
+as you approach the door you can feel the cold musty basement air coming from under the door. You try to open the door
+but you struggle for a bit to open the door, the door that might lead you to your destiny. after a short struggle you
+can finally descend the creaking and ominous staircase, a shiver runs down your spine, for you are venturing into the depths
+of the basement of this long-abandoned castle. The air grows heavy with a musty scent, tinged with the lingering presence of the past.
+Dim flickers of light from your torch cast eerie shadows on the stone walls, creating an unsettling dance of shadows.
+The staircase seems to stretch endlessly, each step echoing with the weight of history and secrets long held within these forsaken depths.
+As you reach the bottom of the staircase, a heavy wooden door looms before you. The eerie silence seems to intensify,
+as if the castle itself holds its breath in anticipation of your arrival. With trembling hands, you push open the door,
+revealing a labyrinth of darkness, where shadows shift and whispers
+[Walk trough the corridor](The Heartstone)(health = 5)(Gold = 10)(health = 5)
+
+::The Heartstone
+Your footsteps echo through the empty chambers, and the occasional glint of light catches your eye, hinting at the
+potential treasures that may lie within your grasp. Each room you explore holds the potential to reveal a hidden gem.
+As you near the end of the corridor, a mix of anticipation and apprehension fills your heart.
+The final room lies before you, its entrance adorned with an ornate, time-worn door. You can sense that this chamber
+holds something special, a culmination of your journey thus far. With a deep breath, you push open the door, revealing
+a sight that takes your breath away. The room is bathed in a soft, ethereal glow from cold, jewels, and gems.
+and there in teh center off the chamber emanating from a pedestal. Resting atop it is the Heartstone shining brighter than
+anything you have ever seen in your mortal life, glowing with warmth and hope, hope for Staremore and all its residents.
+[Take the Heartstone](Hope for the future)(health = 5)(Gold = 10)(health = 5)
+
+::Hope for the future
+as you touch the Heartstone your body is filled with light, happiness and hope. you know that with this, the heart of Staremore
+you  will perish evil and return Staremore to its former glory, and restore peac to the kingdom.
+As you embark on your journey back, the stone cradled safely in your possession, a renewed sense of
+purpose drives you forward. The weight of the task ahead is great, but you are fueled by the belief that the
+magical stone holds the power to vanquish the darkness that threatens the realm. you are back at the crossroad and
+the final task lies ahead. are you ready to give your all for this kingdom?
+[Go to the tower](The forbidden tower)(health = 5)(Gold = 10)(health = 5)
+[Go back to town](Back in town)(health = 5)(Gold = 10)(health = 5)
+
+::Back in town
+you walk back to town to find the old man from earlier to tel him about your adventure so far.
+you find him by one of the fruit stands and start telling him your journey to the Heartstone.
+when you are finished telling him everything you have been trough you show hom the gem. the old man takes a loong good lock
+at the stone then at you when he suddenly burst out " then what are you standing here for go save our town our kingdom,
+be the hero we have longed for for centuries"
+with the mans encouraging words you sett back on your journey, to the forbidden tower to defeat the evil wizard.
+[go to the tower](By the forbidden tower)(health = 5)(Gold = 10)(health = 5)
+
+::The forbidden tower
+you fin yourself hesitating as you start walking on the path leading to the forbidden tower. as the shadows grow darker
+and earlier. and every sound could be the wizard waiting to ambush you. The air grows heavy with an oppressive aura,
+thick with the lingering presence of dark magic.Your heart pounds in your chest as you approach the tower's entrance,
+knowing that within its walls lies your greatest challenge. The air grows colder, and the atmosphere thickens with every step.
+As you reach the threshold of the wizard's tower, a surge of determination fills your being. The fate of the world hangs
+in the balance, and you are the beacon of light in this darkened realm. With unwavering resolve, you push open the heavy
+doors, ready to face the malevolent forces that await within, armed with the strength of your conviction and the hope that good shall prevail.
+[Enter the tower](The wizards hideout)(health = 5)(Gold = 10)(health = 5)
+
+::By the forbidden tower
+you fin yourself hesitating as you start walking on the path leading to the forbidden tower. as the shadows grow darker
+and earlier. and every sound could be the wizard waiting to ambush you. The air grows heavy with an oppressive aura,
+thick with the lingering presence of dark magic.Your heart pounds in your chest as you approach the tower's entrance,
+knowing that within its walls lies your greatest challenge. The air grows colder, and the atmosphere thickens with every step.
+As you reach the threshold of the wizard's tower, a surge of determination fills your being. The fate of the world hangs
+in the balance, and you are the beacon of light in this darkened realm. With unwavering resolve, you push open the heavy
+doors, ready to face the malevolent forces that await within, armed with the strength of your conviction and the hope that good shall prevail.
+[Enter the tower](The wizards hideout)(health = 5)(Gold = 10)(health = 5)
+
+::The wizards hideout
+As you step into the wizard's tower, an unsettling chill grips the air. The atmosphere crackles with dark energy,
+weaving an intricate tapestry of malevolence. As you venture into the tower, the air grows thick with arcane spells and
+the faint trace of sulfur. Unholy symbols and eerie artifacts adorn the walls, testaments to the wizard's dark powers.
+Candles flicker ominously, casting distorted shadows that writhe and twist like phantoms dancing to the wizard's sinister symphony.
+As you step into the chamber, the evil wizard materializes before you, a sinister figure wreathed in darkness and cloaked
+in ancient robes. Their malevolent gaze meets yours, and the battle of wills begins.
+[Begin the final battle](The finale battle)(health = 5)(Gold = 10)(health = 5)
+
+::The finale battle
+Spells arc through the air, crackling with arcane energy, as you engage in a deadly dance of magic and might.
+the wizard skilfully cast his spells, but you are just as good to deflect them. Each incantation, each strike, carries the
+might of the wizard. With each swing of your sword, sparks fly as it meets the arcane shields conjured by the wizard.
+As the battle intensifies, you unleash a flurry of strikes, aiming to breach the wizard's defenses. The air crackles
+with the tension between light and darkness as your sword slices through the barriers, with a resolute spirit, you press
+on, dodging, parrying, and striking with calculated precision.In the midst of the heated battle, you seize a fleeting
+opportunity. With a swift and decisive strike, your sword pierces the wizard's defenses, finding its mark. A cry of
+anguish erupts from the wizard's lips, their dark powers faltering for a moment. you unleash your ultimate weapon.
+[Unleash the final blow](The end of a quest)(health = 5)(Gold = 10)
+
+::The end of a quest
+With the Heartstone and your sword you summoning every ounce of strength, you deliver the final blow. you severing the
+ties between the wizard and their malevolent magic. the darkness vanishing, leaving behind only the fading echoes of the battle
+You stand amidst the aftermath, breathing heavily, your sword held high in victory. The chamber is filled with a renewed
+sense of peace, as the wizard's evil influence is vanquished. The world, once threatened by the wizard's malevolence,
+is now safe from their wicked grasp. As you lower your sword, the weight of your accomplishment sinks in.
+You have proven yourself as a formidable champion, a beacon of light in the face of darkness. as you leave the tower
+you can feel that the forest has changed once dark and uninviting was now flourishing with new life as tou could see
+flowers starting to bloom, animals slowly returning and the sunlight once more penetrating trough the foliage above
+The battle may be won, but the memory of your valor and heroism will endure,
+inspiring hope and serving as a testament to the triumph of good over evil.
+
